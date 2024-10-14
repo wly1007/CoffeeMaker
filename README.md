@@ -1,1 +1,1 @@
-# CoffeMaker
+# CoffeeMaker
