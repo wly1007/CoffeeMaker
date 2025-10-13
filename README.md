@@ -1,2 +1,1 @@
-#CoffeeMaker
-test
+#CoffeeMaker test
